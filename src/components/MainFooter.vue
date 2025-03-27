@@ -58,17 +58,17 @@ function validateEmail(email) {
                 <div class="card-border about-card">
                     <div>
                         <h3>Nick</h3>
-                        <a href="">
+                        <a href="mailto:s28688117@gmail.com?subject=Hello&body=How%20are%20you?" target="_blank" rel="noopener noreferrer">
                             <p>s28688117@gmail.com</p>
                         </a>
-                        <a href="">
+                        <a href="https://pda.104.com.tw/profile/share/5fNH8dUbK7ggzt3v38UH1OmYT0gjoh9E" target="_blank" rel="noopener noreferrer">
                             <p>104 Resume</p>
                         </a>
-                        <a href="">
+                        <a href="https://github.com/NickSiang/Resume" target="_blank" rel="noopener noreferrer">
                             <p>Git Hub</p>
                         </a>
-                        <a href="">
-                            <p>Facebook</p>
+                        <a href="https://line.me/ti/p/L_-_JmAAI3" target="_blank" rel="noopener noreferrer">
+                            <p>Line</p>
                         </a>
 
                     </div>
