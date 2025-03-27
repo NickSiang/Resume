@@ -185,11 +185,11 @@ p {
     border: 3px solid #000000;
     box-shadow: 0 0 2px 0px rgba(175, 175, 175, 0.436);
     border-radius: 10px;
+    display: flex;
 }
 
 .img-block img {
     width: 100%;
-    height: 100%;
     object-fit: cover;
     transition: all 300ms linear;
 }
