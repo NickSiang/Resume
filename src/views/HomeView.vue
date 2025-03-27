@@ -140,8 +140,8 @@ p {
 #about .dialogbox{
   position: absolute;
   z-index: 3;
-  top: 40%;
-  left:4%;
+  top: 20%;
+  left:-2%;
   animation: fadeIn 12s ease-in-out infinite ;
 }
 @keyframes fadeIn{
@@ -163,13 +163,13 @@ p {
     transform: rotate(10deg);
   }
 
-  90%{
+  95%{
     opacity: 10;
     transform: translate(1%,1%) scale(1.3) rotate(5deg);
   }
   100%{
     opacity: 0;
-    transform:rotate(-20deg) scale(0.9) translate(50%,200%);;
+    transform:rotate(-20deg) scale(0.9) translate(30%,200%);;
   }
 }
 
@@ -260,6 +260,10 @@ p {
 
   p {
     font-size: 0.8rem;
+  }
+
+  #about .dialogbox{
+    left: -10%;
   }
 }
 </style>
