@@ -22,10 +22,10 @@ const cardData = [
   },
   {
     no: '2',
-    link: '',
+    link: 'https://nicksiang.github.io/Micosoft/',
     imgSrc: project2,
     title: '微軟官網首頁仿切',
-    content: '利用原生css仿切的微軟官網首頁(含RWD),並利用套件Swiper製作輪播',
+    content: '利用原生css仿切的微軟官網首頁(含RWD)，並利用套件Swiper製作輪播',
     labels: ['#Swiper'],
   },
   {

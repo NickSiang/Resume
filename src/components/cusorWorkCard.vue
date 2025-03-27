@@ -86,16 +86,16 @@ const datas = [{
     content: '使用 OpenStreetMap 顯示世界地圖，並搭配 Leaflet 套件放置上百個代表國家的大頭針。點擊大頭針後，會彈出視窗顯示該國的相關資訊，資料則來自於 Restcountries API。',
 },
 {
-    link: '',
+    link: 'https://nicksiang.github.io/Colorgame/',
     imgSrc: miniproject8,
     title: '色弱遊戲',
     content: '使用原生js製作的簡易小遊戲',
 },
 {
-    link: '',
+    link: 'https://nicksiang.github.io/CssAnimation/',
     imgSrc: miniproject9,
     title: '皮卡丘',
-    content: '在Figma中創建SVG圖形,並利用CSS動畫,為SVG元素添加動態效果。',
+    content: '在Figma中創建SVG圖形，並利用CSS動畫，為SVG元素添加動態效果。',
 
 }
 ];
