@@ -1,6 +1,7 @@
-# 前端開發作品集
-這是我在自學和職業訓練課程中完成的前端開發專案集。這些專案展示了我在 HTML、CSS、JavaScript 和 Vue.js 等技術上的學習成果。我在這些專案中應用了 UI 設計原則、響應式設計以及互動功能的實現，並且通過不斷的實踐提升了我的前端開發能力。
+# 前端開發作品合集
+這是我在自學與職業訓練課程期間完成的前端開發專案集，展示了我在HTML、CSS、JavaScript和Vue.js等技術上的學習成果。
+專案內容涵蓋CSS動畫與SVG操作、原生JavaScript練習、第三方套件整合、API串接以及Vue組件開發等面向，並持續透過延伸學習與實作練習，強化前端開發能力。
 
-# 聯絡我
+# 連結
 [我的前端作品集](https://nicksiang.github.io/Resume/)<br><br>
-[我的履歷](https://pda.104.com.tw/profile/share/5fNH8dUbK7ggzt3v38UH1OmYT0gjoh9E)
+[我的履歷](https://pda.104.com.tw/profile/share/5fNH8dUbK7ggzt3v38UH1OmYT0gjoh9E)<br><br>
